@@ -1,0 +1,62 @@
+.head{
+    background: 
+    linear-gradient(
+      rgba(0, 231, 255, 0.45), 
+      rgba(0, 231, 255, 0.45)
+    ),
+    url(../img/bg-banner.jpg);
+    background-size: cover;
+    height: 500px;
+    background-repeat: no-repeat;
+    
+}
+.para{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+}
+.bou{
+    color: white;
+    background-color:  rgba(0, 231, 255, 0.45);
+    border-color:   rgba(0, 231, 255, 0.45);
+    margin-bottom: 10px;
+}
+.mar{
+    margin-left: 30px;
+}
+.trait{
+    margin-left: 5px;
+}
+.colo{
+    height: 27px;
+    color:rgba(0, 231, 255, 0.45);
+       font-size: 38px;
+}
+.co{
+    color: lightgray;
+}
+.col{
+   margin-left: 30px;
+   color: white;
+   margin-right: 60px;
+    background-color: rgba(0, 231, 255, 0.45);
+}
+.top{
+    margin-top: 60px;
+}
+
+.centre {
+    margin-left: 336px;
+    margin-right: 225px;
+}
+.tab{
+  border: white;
+}
+.ligne {
+    border: none;
+    border-left: 1px solid;
+    height: 273px;
+    width: 1px;
+    color: white;   
+}
+
